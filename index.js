@@ -15,4 +15,4 @@ const count = bodabodaStops.reduce((acc, num) => {
 
 return count;
 
-output: 1:3, 2:2, 5:3, 10:1
+// output: 1:3, 2:2, 5:3, 10:1
