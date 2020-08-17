@@ -7,5 +7,5 @@ var bodabodaStops = [2, 5, 10, 5, 5, 1, 2, 1, 1]
 
 And you want to know how many times the bodaboda guy made stops in different location.
 
-###Output
+### Output
 1:3, 2:2, 5:3, 10:1
